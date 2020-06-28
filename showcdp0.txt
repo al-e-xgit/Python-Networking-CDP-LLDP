@@ -1,0 +1,6 @@
+Capability Codes: R - Router, T - Trans Bridge, B - Source Route Bridge
+                  S - Switch, H - Host, I - IGMP, r - Repeater
+
+Device ID        Local Intrfce     Holdtme    Capability  Platform  Port ID
+Router2.alex.com Fas 0/1            144         R S I     3725      Fas 0/0
+Router3.alex.com Fas 1/0            144         R S I     3725      Fas 0/0
